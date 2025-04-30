@@ -1,12 +1,13 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# ToDo List - ReactJS + Vite & TailwindCSS
+## Objective
+1. Building a simple, clean and basic ToDo List
+2. Implement a ReactJS project with Vite
+3. Adding basic TailwindCSS to the project
+4. Get familiar with React hooks (useState, useEffect and useRef) and resuable components
+5. Unique ID handling for each tasks
+## How It Works
+1. Add new tasks
+2. Mark tasks as complete/incomplete
+3. Delete tasks
+## Preview
+![Image](https://github.com/user-attachments/assets/ed62262d-c47c-43ac-b366-098c9d590e14)
